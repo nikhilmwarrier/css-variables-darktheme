@@ -1,0 +1,9 @@
+:root{
+  --bg-color-useless: #333333;
+  --txt-color-useless: #FFFFFF;
+}
+
+body{
+  background-color: var(--bg-color, pink);
+  color: var(--txt-color);
+}
